@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="spring-boot-web-application"/>
+<aop-project name="consumer"/>
+<aop-project name="common-utils"/>
+</aop-reference-model>

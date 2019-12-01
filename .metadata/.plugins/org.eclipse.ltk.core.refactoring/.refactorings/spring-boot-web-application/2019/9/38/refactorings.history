@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;validateUser&apos; from expression &apos;service.validateUser(name,password)&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-web-application&apos;&#x0D;&#x0A;- Variable name: &apos;validateUser&apos;&#x0D;&#x0A;- Destination method: &apos;com.osi.springboot.web.springbootwebapplication.controller.LoginController.loginMessage()&apos;&#x0D;&#x0A;- Variable expression: &apos;service.validateUser(name,password)&apos;" description="Extract local variable &apos;validateUser&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.osi.springboot.web.springbootwebapplication.controller{LoginController.java" name="validateUser" replace="false" selection="1048 37" stamp="1568553191873" varType="false" version="1.0"/>
+</session>
